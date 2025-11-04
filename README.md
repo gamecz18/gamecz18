@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👨‍💻 sudo-man
 
-<!--
-**gamecz18/gamecz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ whoami
+gamecz18
+$ sudo whoami
+still gamecz18, just disappointed
+```
+## 🏆 Professional Achievements
+- **Master of Solutions**: Specializing in "have you tried turning it off and on again?"
+- **Commit Artist**: Renowned for commits like `git commit -m "fixed nothing"`
+- **Access Level**: Distinguished by complete absence of sudo privileges
